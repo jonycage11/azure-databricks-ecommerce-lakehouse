@@ -110,6 +110,4 @@ Aggregates the Silver table into four business-ready KPI tables:
 
 ---
 
-## Resume Bullet Point
 
-> Built an end-to-end E-Commerce Lakehouse on Azure Databricks using PySpark and Delta Lake, implementing Medallion Architecture (Bronze, Silver, Gold) on a real-world dataset containing over 100,000 orders to generate business KPIs and analytical insights across revenue, product, payment, and geographic dimensions.
